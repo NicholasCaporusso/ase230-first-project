@@ -1,5 +1,2 @@
-<?php
-// Add some comments
-phpinfo();
-
-?>
+INDEX
+<a href="detail.php">Go to detail page</a>
